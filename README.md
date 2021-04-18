@@ -1,6 +1,6 @@
 <h3 align="center">📗 Список книг</h3>
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>
@@ -14,4 +14,7 @@
       </th>
     <tr>
   </thead>
+  <tbody>
+    <tr><td>Программист фанатик</td><td>Чед Фаулер</td><td>---</td></tr>
+  </tbody>
 </table>
