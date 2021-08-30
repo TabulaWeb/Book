@@ -16,5 +16,71 @@
   </thead>
   <tbody>
     <tr><td><a href="https://github.com/TabulaWeb/Book/blob/main/books/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%20%D1%84%D0%B0%D0%BD%D0%B0%D1%82%D0%B8%D0%BA/Passionate%20Programmer.md">Программист фанатик</a></td><td>Чед Фаулер</td><td>---</td></tr>
+    <tr>
+      <td>Биология добра и зла</td><td>Даниэль Канеман</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Роберт Сапольски</td><td>Роберт Сапольски</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Капитал в 21 веке</td><td>Томас Пикетти</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Капитализм в огне</td><td>Ребекка Хендерсон</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Энергия и цивилизация.</br> От первобытности до наших дней</td><td>Вацлав Смил</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Четвертая промышленная революция</td><td>Клаус Шваб</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Homo Deus</td><td>Юваль Ной Харари</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Будущее человечества</td><td>Митио Каку</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Software Engineering at</br> Google</td><td>Titus Winters, Tom Manshreck,</br> and Hyrum Wright</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Эффективный TypeScript</td><td>Дэн Вандеркам</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Эффективный TypeScript</td><td>Дэн Вандеркам</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Функциональное программирование</td><td>Луис Атенсио</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Object-Oriented JavaScript</td><td>Ved Antani, Stoyan Stefanov</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Secrets of the JavaScript Ninja</td><td>John Resig Bear Bibeult and Josip Maras</td><td>---</td>
+    <tr>
+    <tr>
+      <td>JavaScript Cookbook</td><td>Adam D. Scott</td><td>---</td>
+    <tr>
+    <tr>
+      <td>JavaScript Cookbook</td><td>Adam D. Scott</td><td>---</td>
+    <tr>
+    <tr>
+      <td>JavaScript Everywhere</td><td>Adam D. Scott</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Micro Frontends in Action</td><td>Michael Geers</td><td>---</td>
+    <tr>
+    <tr>
+      <td>SPA Design and Architecture</td><td>EMMIT A. SCOTT, JR</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Deep Learning with JavaScript</td><td>SHANQING CAI</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Web Components in Action</td><td>Ben Farrell</td><td>---</td>
+    <tr>
+    <tr>
+      <td>Web Application Security</td><td>Web Application Security</td><td>---</td>
+    <tr>
   </tbody>
 </table>
