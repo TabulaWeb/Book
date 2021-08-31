@@ -17,10 +17,10 @@
   <tbody>
     <tr><td><a href="https://github.com/TabulaWeb/Book/blob/main/books/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%20%D1%84%D0%B0%D0%BD%D0%B0%D1%82%D0%B8%D0%BA/Passionate%20Programmer.md">Программист фанатик</a></td><td>Чед Фаулер</td><td>---</td></tr>
     <tr>
-      <td>Биология добра и зла</td><td>Даниэль Канеман</td><td>---</td>
+      <td>Думай медленно - решай быстро</td><td>Даниэль Канеман</td><td>---</td>
     <tr>
     <tr>
-      <td>Роберт Сапольски</td><td>Роберт Сапольски</td><td>---</td>
+      <td>Биология добра и зла</td><td>Роберт Сапольски</td><td>---</td>
     <tr>
     <tr>
       <td>Капитал в 21 веке</td><td>Томас Пикетти</td><td>---</td>
