@@ -62,9 +62,6 @@
       <td>JavaScript Cookbook</td><td>Adam D. Scott</td><td>---</td>
     <tr>
     <tr>
-      <td>JavaScript Cookbook</td><td>Adam D. Scott</td><td>---</td>
-    <tr>
-    <tr>
       <td>JavaScript Everywhere</td><td>Adam D. Scott</td><td>---</td>
     <tr>
     <tr>
